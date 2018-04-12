@@ -1,0 +1,3 @@
+[submodule "WebSocketConsole"]
+	path = WebSocketConsole
+	url = https://github.com/garrett-davidson/WebSocketConsole.git
